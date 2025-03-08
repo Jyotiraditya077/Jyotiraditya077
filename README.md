@@ -1,6 +1,6 @@
 # 💫 About Me:
 Passionate about crafting dynamic and interactive web experiences using modern technologies. Skilled in HTML, CSS, and JavaScript, with expertise in Bootstrap for responsive design. Proficient in the MERN stack—MongoDB, Express.js, React, and Node.js—and currently exploring innovative website development on unique topics and projects.<br><br>With a problem-solving mindset, I thrive on tackling challenges and delivering efficient, scalable solutions. I continuously expand my skill set, staying updated with the latest technologies. Strong in collaboration and communication, I excel in team environments and drive projects to success.<br><br>Let’s connect and create something amazing together! 🚀
-
+[![Portfolio](https://jyotiradityaportfolio.netlify.app/))]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justtt.rixhi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyotiraditya-swain-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotiradityaswain123@gmail.com) 
