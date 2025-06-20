@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Builder+of+Tech+for+Good;Let's+code+and+create+impact+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Turning+Ideas+into+Reality+🚀;Coding+with+Creativity+🎨;Learning+Relentlessly+📚;Building+for+Humans+🤝;Open+Source+is+Love+❤️" alt="Typing SVG" />
 </p>
+
 
 # 💫 About Me:
 Enthusiastic about crafting dynamic web experiences and building scalable applications. Proficient in the MERN stack, MongoDB, Express.js, React, and Node.js, delivering seamless and responsive solutions. Currently diving into the world of DevOps, exploring CI/CD, Docker, and cloud deployment to optimize application performance and scalability.<br><br>With a passion for coding and problem-solving, I thrive on tackling challenges head-on and implementing efficient solutions. Always eager to learn and grow, I stay updated with the latest technologies and actively seek opportunities to expand my expertise. Strong collaboration and communication skills enable me to drive projects toward successful outcomes.
