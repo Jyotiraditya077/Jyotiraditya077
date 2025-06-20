@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=750&lines=Let’s+build+cool+stuff+together!;Turning+ideas+into+reality+🚀;Making+websites+with+love+❤️;Code.+Create.+Repeat.;Crafting+experiences,+not+just+pages." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=DA70D6&center=true&vCenter=true&width=780&lines=Let’s+build+cool+stuff+together!;Turning+ideas+into+reality+🚀;Making+websites+with+love+❤️;Code.+Create.+Repeat.;Crafting+experiences,+not+just+pages." alt="Typing SVG" />
 </p>
-
 
 
 # 💫 About Me:
